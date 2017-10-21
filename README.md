@@ -1,3 +1,3 @@
-# BrewBuddy-App
+# BrewBuddy
 
-https://paulthorman.github.io/BrewBuddy-App/
+
